@@ -1,2 +1,2 @@
 # kmuhandeeplearning
-딥러닝의 실체 예제 by Colab
+VGGNET(v), GOOGLENET, RESNET 구현 목표
